@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FinishTrigger
+  - ForwardTrigger
+  - Rock
+  - Stair
+  - CheckPoint
+  - Step
+  - Key
+  - Coin
+  - StepItem
+  - Stickman
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Step
+  - StairFinish
+  - StairFoward
+  - Stickman
+  - Stair
+  - BackGround
+  - Rock
+  - Key
+  - Coin
+  - CurveWorld
+  - StepItem
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
